@@ -15,3 +15,23 @@ body{
 .chev1{
     color: red;
 }
+@media only screen and (max-width: 767) {
+    p {
+    font-size: 5em;
+    color: rgb(255, 0, 0); 
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+button {
+    border-radius: 25px; font-size: 25px;background-color: purple;
+}
+body{
+    background-color: aqua;
+}
+.chev1{
+    color: red;
+}
+
+}
